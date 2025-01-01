@@ -1,0 +1,14 @@
+// File cấu hình cho thư viện babel
+
+{
+    "plugins": [
+        [
+            "module-resolver",
+            {
+                "alias": {
+                    "~": "./src"
+                }
+            }
+        ]
+    ]
+}
