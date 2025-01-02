@@ -7,13 +7,14 @@
         "@fortawesome/free-regular-svg-icons": "^6.7.2",
         "@fortawesome/free-solid-svg-icons": "^6.7.2",
         "@fortawesome/react-fontawesome": "^0.2.2",
+        "@tippyjs/react": "^4.2.6",
         "classnames": "^2.5.1",
         "cra-template": "1.2.0",
         "normalize.css": "^8.0.1",
         "react": "^19.0.0",
         "react-dom": "^19.0.0",
         "react-router-dom": "^7.1.1",
-        "react-scripts": "5.0.1",
+        "react-scripts": "^5.0.1",
         "web-vitals": "^4.2.4"
     },
     "scripts": {
@@ -46,6 +47,9 @@
         "customize-cra": "^1.0.0",
         "react-app-rewired": "^2.2.1",
         "sass": "^1.83.0",
-        "sass-loader": "^13.3.3"
+        "sass-loader": "^16.0.4",
+        "source-map-loader": "^5.0.0",
+        "webpack": "^5.97.1",
+        "webpack-cli": "^6.0.1"
     }
 }
